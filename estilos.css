@@ -1,0 +1,6 @@
+.menubar {
+    text-align: center;
+    grid-template-columns: 2ft 2ft;
+    background-color: blue;
+    border-radius: 30px;
+}
