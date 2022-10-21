@@ -1,14 +1,15 @@
 .menubar {
     text-align: center;
-    background-color: rgb(15, 142, 15);
+    background-color: orange;
     border-radius: 30px;
+    
 }
 
 .mercado {
     text-align: center;
     border-radius: 30px;
     height: 300px;
-    width: 1075px;
+    width: 1065px;
 }
 
 .inicio {
@@ -34,3 +35,14 @@
     cursor: pointer;
     cursor: grab;
 }
+
+h1,img {
+    text-align: center;
+}
+    
+.carritoss {
+    width: 85px;
+    height: 60px;
+    border-radius:20px;
+}
+
